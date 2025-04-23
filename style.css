@@ -1027,3 +1027,21 @@ body {
     margin-bottom: 10px;
     color: #b3b3b3;
 }
+
+
+
+
+
+
+
+
+
+.song-actions {
+    position: absolute;
+    top: 10px;
+    left: 10px; /* change from right to left */
+    display: flex;
+    gap: 30px;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
