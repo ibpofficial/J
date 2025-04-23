@@ -32,9 +32,9 @@ const songs = [
         title: "Good 4 U",
         artist: "Olivia Rodrigo",
         genre: "pop",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5d",
-        audio: "assets/songs/good-4-u.mp3",
-        duration: "2:58"
+        cover: "1.png",
+        audio: "1.mp3",
+        duration: "3:10"
     },
     {
         id: 5,
