@@ -29,8 +29,8 @@ const songs = [
     },
     {
         id: 4,
-        title: "Good 4 U",
-        artist: "Olivia Rodrigo",
+        title: "MONEY MONEY Ft AJAY DEVGAN",
+        artist: "YO YO HONEY SING",
         genre: "pop",
         cover: "1.png",
         audio: "1.mp3",
@@ -38,30 +38,30 @@ const songs = [
     },
     {
         id: 5,
-        title: "Bohemian Rhapsody",
-        artist: "Queen",
-        genre: "rock",
-        cover: "https://i.scdn.co/image/ab67616d00001e029a9d677859e860a7629aae8f",
-        audio: "assets/songs/bohemian-rhapsody.mp3",
-        duration: "5:55"
+        title: "QATAL",
+        artist: "GURU RANDHAWA",
+        genre: "hip-hop",
+        cover: "qatal.jpg",
+        audio: "qatal.mp3",
+        duration: "2:51"
     },
     {
         id: 6,
-        title: "Sweet Child O'Mine",
-        artist: "Guns N' Roses",
-        genre: "rock",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
-        audio: "assets/songs/sweet-child.mp3",
-        duration: "5:56"
+        title: "Chor Bazari Phir Se",
+        artist: "Neeraj Shridhar, Sunidhi Chauhan,",
+        genre: "pop",
+        cover: "rajkumar.jpg",
+        audio: "koina.mp3",
+        duration: "2:52"
     },
     {
         id: 7,
-        title: "Lose Yourself",
-        artist: "Eminem",
+        title: "JEELO JEELO",
+        artist: "dhanda nyoliwala",
         genre: "hiphop",
-        cover: "https://i.scdn.co/image/ab67616d00001e02f1e3516e0a4607b4ba8a5e6e",
-        audio: "assets/songs/lose-yourself.mp3",
-        duration: "5:26"
+        cover: "j.png",
+        audio: "j.mp3",
+        duration: "3:55"
     },
     {
         id: 8,
