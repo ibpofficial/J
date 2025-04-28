@@ -2,8 +2,8 @@
 const songs = [
     {
         id: 1,
-        title: "Blinding Lights",
-        artist: "The Weeknd",
+        title: "Haran hu mai ",
+        artist: "Anuv jain",
         genre: "pop",
         cover: "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
         audio: "2.m4a",
@@ -11,21 +11,21 @@ const songs = [
     },
     {
         id: 2,
-        title: "Save Your Tears",
-        artist: "The Weeknd",
-        genre: "pop",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c5916e5e1b1a6e0f8a000e0e",
-        audio: "assets/songs/weeknd-save-your-tears.mp3",
-        duration: "3:35"
+        title: "O Shera-Teer Te Taj",
+        artist: "Manmohan Waris, Kamal Heer",
+        genre: "goosebumps",
+        cover: "kesari.jpg",
+        audio: "kesari.mp3",
+        duration: "2:44"
     },
     {
         id: 3,
-        title: "Stay",
-        artist: "The Kid LAROI, Justin Bieber",
+        title: "Haran hu mai ",
+        artist: "Anuv Jain",
         genre: "pop",
         cover: "2.png",
         audio: "2.m4a",
-        duration: "3:52"
+        duration: "3:20"
     },
     {
         id: 4,
@@ -44,6 +44,15 @@ const songs = [
         cover: "qatal.jpg",
         audio: "qatal.mp3",
         duration: "2:51"
+    },
+     {
+        id: 5,
+        title: "QATAL",
+        artist: "Maanu ,Annural Khalid ",
+        genre: "LOVE",
+        cover: "jhol.jpg",
+        audio: "jhol.mp3",
+        duration: "4:25"
     },
     {
         id: 6,
